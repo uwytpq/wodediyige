@@ -1,0 +1,12 @@
+node_modules/
+.openclaw/
+.clawhub/
+media/
+*.log
+*.png
+*.jpg
+*.jpeg
+.git/
+state/
+package.json
+package-lock.json
